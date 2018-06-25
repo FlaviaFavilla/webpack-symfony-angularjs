@@ -1,0 +1,9 @@
+{
+  "bundles/app/build/app.css": "/bundles/app/build/app.css",
+  "bundles/app/build/app.js": "/bundles/app/build/app.js",
+  "bundles/app/build/fonts/glyphicons-halflings-regular.eot": "/bundles/app/build/fonts/glyphicons-halflings-regular.f4769f9b.eot",
+  "bundles/app/build/fonts/glyphicons-halflings-regular.ttf": "/bundles/app/build/fonts/glyphicons-halflings-regular.e18bbf61.ttf",
+  "bundles/app/build/fonts/glyphicons-halflings-regular.woff": "/bundles/app/build/fonts/glyphicons-halflings-regular.fa277232.woff",
+  "bundles/app/build/fonts/glyphicons-halflings-regular.woff2": "/bundles/app/build/fonts/glyphicons-halflings-regular.448c34a5.woff2",
+  "bundles/app/build/images/glyphicons-halflings-regular.svg": "/bundles/app/build/images/glyphicons-halflings-regular.89889688.svg"
+}
