@@ -1,6 +1,7 @@
-footer.title: __footer.title
-footer.text: __footer.text
-'Symfony is great': '__Symfony is great'
-navbar.products: __navbar.products
-navbar.new: __navbar.new
-navbar.promo: __navbar.promo
+footer.title: Distributore
+footer.text: SBS s.p.a. - Società Unipersonale controllata da SBS Srl, Via Circonvallazione s/n 28010 Miasino - Italia
+'Symfony is great': Amo Symfony
+navbar.products: prodotti
+navbar.new: nuovo
+navbar.promo: promo
+navbar.language.it: italiano
