@@ -1,3 +1,6 @@
 controllers:
     resource: ../../src/Controller/
     type: annotation
+    prefix:
+        it: '' # don't prefix URLs for Italian, the default locale
+        en: '/en'
