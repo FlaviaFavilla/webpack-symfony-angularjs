@@ -10,9 +10,19 @@ class HomeController extends BaseController
     /**
      * @Route(name="homepage")
      */
-    public function indexAction(Request $request)
+    public function indexAction()
     {
-        $locale = $request->getLocale();
         return $this->render("pages/index.html.twig");
+    }
+
+    /**
+     * @Route({
+     *     "it": "/prodotti",
+     *     "en": "/products"
+     * }, name="products")
+     */
+    public function productsAction()
+    {
+        return $this->render("pages/products.html.twig");
     }
 }
