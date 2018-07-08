@@ -5,7 +5,7 @@ window.$ = require('jquery');
 require('bootstrap-sass');
 
 require('angular');
-require('../controller/mainController.js');
+require('controller/mainControll.js');
 
 $(document).ready(function() {
 
